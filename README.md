@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Shirdhankar</h1>
 <h3 align="center">Aspiring Python Developer | Engineering Grad | Open to Opportunities</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prathamesh4code&theme=onedark" alt="GitHub Profile Trophy" />
-  </a>
-</p>
-
 ---
 
 - 🔭 I’m currently working on [Python Projects](https://github.com/prathamesh4code/PythonQs)
